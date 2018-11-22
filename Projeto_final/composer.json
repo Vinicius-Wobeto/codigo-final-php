@@ -1,0 +1,17 @@
+{
+    "name": "wobeto_muller/escolinha_futebol",
+    "description": "Projeto Final/Site escolinha de futebol",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vinicius Wobeto, Allison Muller",
+            "email": "viniwobeto88@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.4@dev",
+        "components/jquery": "dev-master"
+    }
+}
